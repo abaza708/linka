@@ -24,7 +24,6 @@ Endpoints
 - POST /v1/messages/send
 - GET  /v1/messages/with/{user_id}
 
-Do not share secrets publicly. Rotate credentials after testing.
 
 # linka_mobile
 
